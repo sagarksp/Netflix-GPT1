@@ -1,11 +1,8 @@
 
-import './App.css';
-
+import Body from './components/Body';
 function App() {
   return (
-    <div className="font-extrabold text-green-800 text-center text-3xl">
-     Namaste netflix
-    </div>
+   <Body />
   );
 }
 
